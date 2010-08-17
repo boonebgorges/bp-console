@@ -1,0 +1,14 @@
+.console-col-one, .console-col-two {
+	width: 45%;
+	padding: 10px;
+	float: left;
+}
+
+.console-activity-entry img.avatar {
+	width: 35px;
+	height: 35px;
+}
+
+.console-activity-entry .activity-content {
+	margin-left: 45px;
+}
